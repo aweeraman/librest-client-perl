@@ -6,11 +6,11 @@ Uploaders: Anuradha Weeraman (anu) <aweeraman@gmail.com>
 Build-Depends: debhelper (>= 9)
 Build-Depends-Indep: perl
 Standards-Version: 3.9.6
-Homepage: http://search.cpan.org/~mcrawfor/REST-Client-271/
+Homepage: https://metacpan.org/pod/REST::Client
 Testsuite: autopkgtest-pkg-perl
 
 Package: librest-client-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
-Description: A simple client for interacting with RESTful http/https resources
- This module provides a simple way to interact with HTTP RESTful resources.
+Description: Simple client for interacting with RESTful http/https resources
+ A simple way to interact with HTTP RESTful resources.
