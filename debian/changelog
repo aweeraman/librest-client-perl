@@ -2,4 +2,4 @@ librest-client-perl (271-1) unstable; urgency=low
 
   * Initial Release (Closes: #767656)
 
- -- Anuradha Weeraman (anu) <aweeraman@gmail.com>  Sat, 1 Nov 2014 22:24:40 +0530
+ -- Anuradha Weeraman <anuradha@gnuromancer.org>  Sat, 1 Nov 2014 22:24:40 +0530
