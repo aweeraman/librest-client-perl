@@ -8,11 +8,12 @@ Build-Depends-Indep: perl
 Standards-Version: 3.9.6
 Vcs-Browser: https://anonscm.debian.org/cgit/pkg-perl/packages/librest-client-perl.git
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/librest-client-perl.git
-Homepage: https://metacpan.org/pod/REST::Client
+Homepage: https://metacpan.org/release/REST-Client
 Testsuite: autopkgtest-pkg-perl
 
 Package: librest-client-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
 Description: Simple client for interacting with RESTful http/https resources
- A simple way to interact with HTTP RESTful resources.
+ REST::Client provides an easy to use interface for interacting with RESTful
+ http/https resources through an intuitive API.
